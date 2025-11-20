@@ -21,6 +21,7 @@ SELECT 1 AS gender_code, 'Male' AS gender
 UNION ALL
 SELECT 2, 'Female';
 
+
 -- Seizure concept reference table
 CREATE TABLE epilepsy_summary.seizure_concepts (
     concept_id INT,
