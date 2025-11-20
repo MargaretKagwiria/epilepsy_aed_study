@@ -9,3 +9,5 @@ The tools used in this project are:
  3. PostgreSQL
  4. Tableau
  5. Bash (To install certain dependancies. This project was done on MacOS)
+
+The files I extracted from Dagshub using python could not be uploaded to this repository since they are too large. Run the jupyter notebook to download the files on your PC.
