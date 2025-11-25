@@ -13,3 +13,8 @@ The tools used in this project are:
  5. Bash (To install certain dependancies. This project was done on MacOS)
 
 The files I extracted from DagsHub using python could not be uploaded to this repository since they are too large. Run the jupyter notebook to download the files on your PC.
+
+I have created a Tableau Public version of the workbook with all the extracted data. To view the workbook click the link below:
+https://public.tableau.com/app/profile/margaret.kagwiria/viz/epilepsy_sample_project_visualisation/seizure_aed_analysis
+
+Feel free to comment on areas I can improve this project.
